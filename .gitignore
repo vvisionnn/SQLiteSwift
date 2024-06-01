@@ -29,3 +29,7 @@ bin/
 .build
 Packages/
 .swiftpm/
+
+# Tuist Derived Folder
+Derived/
+SQLiteSwift.xcodeproj/
